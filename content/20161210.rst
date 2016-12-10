@@ -1,0 +1,13 @@
+First Post By Pelican
+#####################
+
+:date: 2016-12-08 12:00
+:modified: 2016-12-10 14:40
+:tags: Python, Pelican
+:category: Python
+:authors: yusukew62
+:summary: first post by pelican
+
+.. code-block:: python
+
+    print "Hello World"

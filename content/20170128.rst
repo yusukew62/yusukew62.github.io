@@ -1,0 +1,73 @@
+The Hitchhiker’s Guide to Python の和訳の公式管理者になりました
+####################################################################
+
+:date: 2017-01-28 12:00
+:tags: Python, 翻訳
+:category: Python
+:authors: yusukew62
+:summary: The Hitchhiker’s Guide to Python を和訳しました
+
+概要
+----
+
+オライリーの洋書に `The Hitchhiker’s Guide to Python`_ というPython 初学者向けの本がありますが、
+その書籍のもととなるサイト `The Hitchhiker’s Guide to Python (en)`_ の和訳 `The Hitchhiker’s Guide to Python (ja)`_ を行ったところ公式サイトからリンクを貼ってもらえ、和訳の公式管理者になりました。
+
+.. _The Hitchhiker’s Guide to Python: http://shop.oreilly.com/product/0636920042921.do
+.. _The Hitchhiker’s Guide to Python (en): http://docs.python-guide.org/en/latest/
+.. _The Hitchhiker’s Guide to Python (ja): http://python-guideja.readthedocs.io/ja/latest/
+
+
+動機
+----
+
+転職して自分の時間が持てるようになり、久々に外部の勉強会やオープンソースの活動に参加できるようになりました。
+
+* Pythonが好きなためPythonをもとにしたオープンソースの活動とすること
+* 取り掛かりやすそうな翻訳とすること
+
+を観点に探していたところ `The Hitchhiker’s Guide to Python`_ のサイトにたどり着き、日本語訳が約３年滞っていたため、自分が更新出来ないかと思いました。
+
+
+Sphinx+翻訳 Hack-a-thon への参加
+--------------------------------
+
+もともと日本語訳をされていた方に翻訳手順を聞くため、連絡してみたところ返事が帰って来ず。。
+並行して公式ドキュメントを参照していたところ、`Sphinx`_ で書かれているため `reStructuredText`_ 形式を
+覚える必要があるということがわかりました。
+
+ちょうど同時期にSphinx勉強会があったので `Sphinx+翻訳 Hack-a-thon 2016.12`_ へ参加しました。
+過去に翻訳本を出版されている shimizukawaさん、tk0miyaさん、usaturnさんに翻訳しようとしているサイトを相談したところ、
+内容もかなり変わっているから一から翻訳したほうがいいのでは？ と助言をいただき、一から翻訳を開始することにしました。
+
+調べていくうちにドキュメントの公開は `ReadtheDocs`_ というドキュメントのホスティングサービスに公開していることが
+わかったので、慣れるよう使ってみました。
+
+.. _Sphinx : http://www.sphinx-doc.org/
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+.. _ReadtheDocs : https://readthedocs.org/
+.. _Sphinx+翻訳 Hack-a-thon 2016.12: https://sphinxjp.connpass.com/event/46022/
+
+
+翻訳
+----
+
+以下の手順で翻訳を行いました。
+
+* 翻訳機にかける
+* 英語版と照らし合わせて正しい翻訳に直す
+* 流暢な日本語になるよう、意味を崩しすぎず修正
+
+
+公開
+----
+
+`ReadtheDocs`_ に公開後、公式サイトを管理されている kennethreitz さんに日本語訳を更新したことを連絡したところ、
+返事が返ってきて公式サイトからリンクを貼ってもらえ、晴れて日本語訳の公式管理者になることができました。
+
+.. image:: /images/20170128_1.png
+           :alt: Email
+
+.. image:: /images/20170128_2.png
+           :alt: GitHub
+

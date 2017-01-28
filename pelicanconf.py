@@ -20,16 +20,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('ReadtheDocs', 'https://readthedocs.org/profiles/yusukew62/'),
+         ('Qiita', 'http://qiita.com/yusukew62/'),
+         ('Coderwall', 'https://coderwall.com/yusukew62/'),
+         ('The Hitchhiker’s Guide to Python', 'http://python-guideja.readthedocs.io/ja/latest/'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/yusukew62'),
-          ('github', 'https://github.com/yusukew62'),
-          ('facebook', 'https://www.facebook.com/yusuke.watanabe62'),
-          ('linkedin', 'https://www.linkedin.com/in/yusukew62'),)
+SOCIAL = (('twitter', 'https://twitter.com/yusukew62/'),
+          ('github', 'https://github.com/yusukew62/'),
+          ('facebook', 'https://www.facebook.com/yusuke.watanabe62/'),
+          ('linkedin', 'https://www.linkedin.com/in/yusukew62/'),)
 
 DEFAULT_PAGINATION = 10
 

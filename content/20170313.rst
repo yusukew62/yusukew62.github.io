@@ -1,0 +1,48 @@
+LPIC-2 を取りました
+###################
+
+:date: 2017-03-11 22:00
+:tags: Linux, LPIC
+:category: Linux
+:authors: yusukew62
+:summary: LPIC-2 を取りました
+
+概要
+----
+
+`LPIC-2`_ を受験して合格しました。
+
+.. _LPIC-2: http://www.lpi.or.jp/examination/level2.shtml
+
+動機
+----
+
+`LPIC-2`_ の出題範囲が若干変更になるらしく、また以前LPICの新試験(DevOps)のアンケートに答えて
+ゲットした 5% オフのバウチャの期限も 3月だったので受験することにしました。
+
+.. _LPIC-2: http://www.lpi.or.jp/examination/level2.shtml
+
+合格まで
+--------
+
+LPIC-2 の試験範囲は以前から自宅の仮想基盤(VMwareESXi)で一通り弄っていたこともあったため、
+`教科書`_ は自分が自身のないところを中心に読みました。
+
+`問題集`_ を一通り解き、間違えたところをスマホで写真を撮り、受験日の１週間前から通勤時間を利用して読みました。
+
+試験当日は、201試験は 11:00開始、202試験 は時間が大分空いて 16:00 開始となったため、
+朝早く起きて問題集の 201試験で間違えたところを復習し、201試験終了後、202 試験を勉強しました。
+
+試験内容は、使用した問題集とほぼ同等レベルで、同じような問題も出たため、使用した問題集の力が
+大きかったと思いました。
+
+.. _教科書: https://www.amazon.co.jp/Linux%E6%95%99%E7%A7%91%E6%9B%B8-LPIC%E3%83%AC%E3%83%99%E3%83%AB2-Version4-0%E5%AF%BE%E5%BF%9C-EXAMPRESS-%E4%B8%AD%E5%B3%B6/dp/4798137510/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=0R77GEANQ9GTKZKHE4PT
+
+.. _問題集: https://www.amazon.co.jp/Linux%E6%95%99%E7%A7%91%E6%9B%B8-LPIC-%E3%83%AC%E3%83%99%E3%83%AB2-%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E5%95%8F%E9%A1%8C%E9%9B%86-Version4-0%E5%AF%BE%E5%BF%9C/dp/4798141011/ref=sr_1_4?s=books&ie=UTF8&qid=1489589660&sr=1-4&keywords=lpic+%E3%83%AC%E3%83%99%E3%83%AB1+%E5%95%8F%E9%A1%8C%E9%9B%86
+
+今後
+----
+
+この際、LPIC-3 まで取ってしまいたいが、来週ITIL研修や 4月に情報処理試験が待ち構えているため、
+しばらく先の予定になりそうです。
+

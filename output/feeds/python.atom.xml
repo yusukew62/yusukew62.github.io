@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>yusukew62 blog - Python</title><link href="http://yusukew62.github.io/" rel="alternate"></link><link href="http://yusukew62.github.io/feeds/python.atom.xml" rel="self"></link><id>http://yusukew62.github.io/</id><updated>2016-12-10T14:40:00+09:00</updated><entry><title>First Post By Pelican</title><link href="http://yusukew62.github.io/first-post-by-pelican.html" rel="alternate"></link><published>2016-12-08T12:00:00+09:00</published><updated>2016-12-10T14:40:00+09:00</updated><author><name>yusukew62</name></author><id>tag:yusukew62.github.io,2016-12-08:/first-post-by-pelican.html</id><summary type="html">&lt;p class="first last"&gt;first post by pelican&lt;/p&gt;
-</summary><content type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;print&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;Hello World&amp;quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-</content><category term="Python"></category><category term="Pelican"></category></entry></feed>

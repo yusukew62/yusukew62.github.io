@@ -3,7 +3,6 @@ ITILファンデーションを取りました
 
 :date: 2017-05-03 4:30
 :tags: ITIL
-:category: ITIL
 :authors: yusukew62
 :summary: ITILファンデーションを取りました
 
